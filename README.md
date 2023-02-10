@@ -12,3 +12,9 @@ ENTREGÁVEL: Pista e programa que (1) possa atingir o objetivo (completar o perc
 
 ![robo1](https://user-images.githubusercontent.com/90010767/217991759-70c6323e-7870-42b0-856c-0a5b83504ed9.png)
     (IMAGEM EXEMPLO)
+    
+<br>
+    
+    
+![comandos](https://user-images.githubusercontent.com/90010767/217992333-0a4fe036-d969-4dad-bd35-5ad96da86ba4.png)
+    (nosso labirinto)
